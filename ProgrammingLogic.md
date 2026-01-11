@@ -119,6 +119,6 @@ create a number that receive an integer and positive number and print his fatori
 if integer_number < 0
  print ˜input only positive number˜
  
- else 
+ fatorial = 1
 fatorial = fatorial * integer_number
-  print 
+  print fatorial

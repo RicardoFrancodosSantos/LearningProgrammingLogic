@@ -131,3 +131,7 @@ ages = [15,46,75,34, 23]
 
 2. What i need to do with this data?
 sum the values and print the sum of the values to the user
+
+3. Which are all restrictions of this problem?
+
+i must use only the ages collections

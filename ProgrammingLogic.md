@@ -135,3 +135,7 @@ sum the values and print the sum of the values to the user
 3. Which are all restrictions of this problem?
 
 i must use only the ages collections
+
+4. Which is the expected result?
+
+sum the values of the collection and print the result to the user

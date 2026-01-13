@@ -139,3 +139,13 @@ i must use only the ages collections
 4. Which is the expected result?
 
 sum the values of the collection and print the result to the user
+
+5. Which are the step sequence to achieve the expected result?
+
+ages = [15,46,75,34, 23]
+
+ total = 0 
+
+ loop total in ages
+  total = total + ages
+  print total

@@ -129,4 +129,5 @@ Given a collection of data called ages, with the values 15, 46, 75, 34, and 23, 
 1. Which are all necessary data inputs?
 ages = [15,46,75,34, 23]
 
-
+2. What i need to do with this data?
+sum the values and print the sum of the values to the user

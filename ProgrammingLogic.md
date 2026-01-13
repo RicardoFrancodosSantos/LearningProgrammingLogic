@@ -102,8 +102,7 @@ else
 Print “ Value_1 is equals Value_2”
 
 
-Problem 6- Factorial of a number
-
+Problem 6- Factorial of a number 
 1. Which are all necessary data inputs?
 	1. an integer number.      input = number
 2. What i need to do with this data?
@@ -122,3 +121,12 @@ if integer_number < 0
  fatorial = 1
 fatorial = fatorial * integer_number
   print fatorial
+
+Problem 7- Sum values of a list and print the 
+
+Given a collection of data called ages, with the values 15, 46, 75, 34, and 23, print the sum of these values on the screen.
+
+1. Which are all necessary data inputs?
+ages = [15,46,75,34, 23]
+
+

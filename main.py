@@ -1,0 +1,1 @@
+print("ola") # type: ignore

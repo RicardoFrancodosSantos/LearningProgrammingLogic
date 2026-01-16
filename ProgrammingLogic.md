@@ -146,6 +146,6 @@ ages = [15,46,75,34, 23]
 
  total = 0 
 
- loop total in ages
-  total = total + ages
+ loop age in ages
+  total = total + age
   print total

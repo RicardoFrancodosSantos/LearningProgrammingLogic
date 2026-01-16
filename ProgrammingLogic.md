@@ -155,3 +155,21 @@ ages = [15,46,75,34, 23]
 
   
   Write a program that, at the start of execution, generates a random number between 1 and 10. Then repeatedly prompt the user to guess the number until they guess correctly. After each guess, the program must indicate whether the guess is below, above, or equal to the generated number.
+
+  classification: input, print, if, else, loop x to y, loop x in y, while x
+
+input random_number beetween 1 to 10
+correct = false
+while correct = false
+input guess 
+if  guess > randon_number
+  print "Number is above than the generated value "
+  
+if  guess < randon_number
+  "Number is below "
+    print  "Number is below than the generated value "
+
+if  guess_random_number = randon_number
+      print "Number is equal the generated value"
+
+

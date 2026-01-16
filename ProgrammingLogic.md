@@ -149,3 +149,9 @@ ages = [15,46,75,34, 23]
  loop age in ages
   total = total + age
   print total
+
+
+  **Problem 8- suggest a number**
+
+  
+  Write a program that, at the start of execution, generates a random number between 1 and 10. Then repeatedly prompt the user to guess the number until they guess correctly. After each guess, the program must indicate whether the guess is below, above, or equal to the generated number.

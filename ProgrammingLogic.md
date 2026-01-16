@@ -164,12 +164,16 @@ while correct = false
 input guess 
 if  guess > randon_number
   print "Number is above than the generated value "
-  
+
 if  guess < randon_number
   "Number is below "
     print  "Number is below than the generated value "
 
 if  guess_random_number = randon_number
       print "Number is equal the generated value"
+
+      correct = true
+
+      
 
 

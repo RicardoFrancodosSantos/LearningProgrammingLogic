@@ -174,6 +174,9 @@ if  guess_random_number = randon_number
 
       correct = true
 
-      
+      else 
+         print ˜you guess an invalid value˜
+
+
 
 

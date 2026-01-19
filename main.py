@@ -6,3 +6,4 @@
 
 
 monthly_salary = input ('Which is your monthly salary: ')
+worked_hours = input ('How many hours you worked: ')

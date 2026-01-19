@@ -7,4 +7,4 @@
 
 monthly_salary = input ('Which is your monthly salary: ')
 worked_hours = input ('How many hours you worked: ')
-hourly_value = monthly_salary / worked_hours
+hourly_value = float(monthly_salary) / int(worked_hours)

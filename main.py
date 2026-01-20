@@ -6,13 +6,16 @@
 
 "Conditionals if elif else"
 
-"Hey, would you help me to move this boxes outside today afternoon?"
-"If i`m free, yes. But ain`t, ask to my brother to help you"
+"I’m late for class. Can I still come in?"
 
-i_am_free = False
-if i_am_free = True:
- print("Let`s go!")
+"If this were your first or second time, yes, you could. But if this were your third time, you would be suspended."
+
+lates = 4
+if lates >= 3:
+    print("you`re suspended")
 else:
-    print("ask to my brother to help you")
+    print("you can come in")
+    
+
 
 

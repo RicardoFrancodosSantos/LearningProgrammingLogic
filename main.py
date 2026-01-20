@@ -4,8 +4,12 @@
 "4. Which is the expected result?"
 "5. Which are the step sequence to achieve the expected result?"
 
+"Conditionals if elif else"
 
-monthly_salary = input ('Which is your monthly salary: ')
-worked_hours = input ('How many hours you worked: ')
-hourly_value = float(monthly_salary) / int(worked_hours)
-print(hourly_value)
+"hello jhonathan, lats hangout tonight?
+
+"if i finish my job here  and i can 
+
+finished_job = True
+if finished_job == True:
+ print("Let`s go!")

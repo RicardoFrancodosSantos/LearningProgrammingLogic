@@ -6,10 +6,12 @@
 
 "Conditionals if elif else"
 
-"hello jhonathan, lats hangout tonight?
+"hello jhonathan, lats hangout tonight?"
 
-"if i finish my job here  and i can 
+"if i finish my job here  and i can "
 
-finished_job = True
+finished_job = False
 if finished_job == True:
  print("Let`s go!")
+else:
+  print(" i can`t Let`s go!")

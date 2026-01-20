@@ -6,12 +6,13 @@
 
 "Conditionals if elif else"
 
-"hello jhonathan, lats hangout tonight?"
+"Hey, would you help me to move this boxes outside today afternoon?"
+"If i`m free, yes. But ain`t, ask to my brother to help you"
 
-"if i finish my job here  and i can "
-
-finished_job = False
-if finished_job == True:
+i_am_free = False
+if i_am_free = True:
  print("Let`s go!")
 else:
-  print(" i can`t Let`s go!")
+    print("ask to my brother to help you")
+
+

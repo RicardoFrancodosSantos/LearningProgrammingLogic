@@ -10,14 +10,15 @@
 
 "If this were your first or second time, yes, you could. But if this were your third time, you would be suspended."
 
-lates = 4
+lates = int(input('How many absences do you have?'))
 if lates >= 3:
     print("you`re suspended")
 elif lates == 1:
     print("you have just two more chances")
 elif lates == 2:
     print("you have just one more chance")
-
+else:
+    print ("you didn`t late yet")
 
 
 

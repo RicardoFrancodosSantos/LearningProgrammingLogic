@@ -13,9 +13,11 @@
 lates = 4
 if lates >= 3:
     print("you`re suspended")
-else:
-    print("you can come in")
-    
+elif lates == 1:
+    print("you have just two more chances")
+elif lates == 2:
+    print("you have just one more chance")
+
 
 
 

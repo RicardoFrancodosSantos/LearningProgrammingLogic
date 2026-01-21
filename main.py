@@ -6,10 +6,17 @@
 
 
 
-"Problem: build an application that receive two values and show the biggest beetween then""
+"Problem: build an application that receive two values and show the biggest beetween then"
 
 first_value= int(input('Insert the first value: '))
 second_value= int(input('Insert the second value: '))
+
+if first_value > second_value
+ print ('The first value is bigger')
+else:
+ print ('The second  value is bigger')
+
+
 
 
 

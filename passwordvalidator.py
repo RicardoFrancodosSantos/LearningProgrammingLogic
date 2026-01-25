@@ -1,0 +1,1 @@
+"Problem:  you work in a system that need to check if all typed passwords are valid. To a password be valid, it needs to have at least six characters"

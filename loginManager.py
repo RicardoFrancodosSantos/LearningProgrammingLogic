@@ -73,3 +73,5 @@ user = ''
 password = ''
 attempts = 0
 
+while (user != 'jhonathan' and password != 'password123') and attempts <3:
+    user = input  ("Type your user: ")

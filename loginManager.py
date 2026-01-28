@@ -75,3 +75,9 @@ attempts = 0
 
 while (user != 'jhonathan' and password != 'password123') and attempts <3:
     user = input  ("Type your user: ")
+    attempt += 1
+
+if user == 'jhonathan' and password == 'password123':
+    print('Login successful')
+else:
+    print('Wait 30 minutes before trying again!')    

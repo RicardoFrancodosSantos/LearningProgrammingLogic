@@ -1,6 +1,6 @@
+#data addition and manipulations
 
-
-countries =['Brazil', 'EUA','México']
-
-#find index automatically
-print(countries.index('EUA'))
+salaries = [2500, 5000, 7000]
+user_salary = float(input('what`s your salary?'))
+salaries.append(user_salary)
+print(salaries)

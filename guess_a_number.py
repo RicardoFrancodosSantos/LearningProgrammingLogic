@@ -11,4 +11,6 @@ random_number = random.randint(1,10)
 match = False
 
 while match == False:
-    guess = input('Guess a number: ')
+    guess = int(input('Guess a number: '))
+    if guess > random_number:
+        print('guess a lower number')

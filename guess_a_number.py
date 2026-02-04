@@ -14,3 +14,8 @@ while match == False:
     guess = int(input('Guess a number: '))
     if guess > random_number:
         print('guess a lower number')
+    elif guess < random_number:
+        print('guess a higher number')
+    else:
+        print ('Congratulations! you hit the correct number!')
+        match = True0

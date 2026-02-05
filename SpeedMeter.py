@@ -10,22 +10,20 @@ If it is between 11 km/h and 20 km/h over the limit, display: “received a seri
 If it is more than 20 km/h over the limit, display: “received a very serious fine”.'''
 #
 
-fine = True
+velocity =float(input('Insert the speed value: '))
+maximum_speed = 80
 
-while fine == True:
-      speed = int(input( 'Insert the value of the speed: '))
-      if speed == 90:
-       print ('received a minor fine')
-
-      elif speed > 90 and speed <= 110:
-         print ('received a serious fine')
-
-      elif speed > 110:
-         print ('received a very serious fine')
-
-      elif speed < 90:
+if velocity <= maximum_speed:
             print ('no fine')
 
-fine = False
-         
+elif velocity  <= maximum_speed +10:
+       print ('received a minor fine')
+
+elif velocity  <= maximum_speed +20:
+       print ('received a serious fine')
+
+elif velocity  <= maximum_speed +30:
+       print ('received a very serious fine')
+else:         
+        print ('received a very very serious fine')
 

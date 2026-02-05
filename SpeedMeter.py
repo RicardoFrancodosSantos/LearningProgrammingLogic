@@ -23,7 +23,7 @@ while fine == True:
       elif speed > 110:
          print ('received a very serious fine')
 
-      elif speed <= 80:
+      elif speed < 90:
             print ('no fine')
 
 fine = False
